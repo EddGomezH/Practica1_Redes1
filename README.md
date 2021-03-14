@@ -131,7 +131,7 @@ Esta VM corresponde a la utilizada en el Servidor del  Departamento de Contabili
 * Configuraciones:
     * IP: 192.168.25.150
     * Mascara de red: 255.255.255.0
-    * Gateway: 192.168.25.255
+    * Gateway: 192.168.25.1
 
 ### VM Informatica
 ![image](img/vminformatica2.png)
@@ -140,7 +140,7 @@ Esta VM corresponde a la utilizada en el Servidor del Departamento de Informáti
 * Configuraciones:
     * IP: 192.168.125.150
     * Mascara de red: 255.255.255.0
-    * Gateway: 192.168.125.255
+    * Gateway: 192.168.125.1
 
 ### VM Ventas
 ![image](img/vmventas2.png)
@@ -149,7 +149,7 @@ Esta VM corresponde a la utilizada en el Departamento de Ventas fue configurada 
 * Configuraciones:
     * IP: 192.168.225.150
     * Mascara de red: 255.255.255.0
-    * Gateway: 192.168.225.255
+    * Gateway: 192.168.225.1
 
 ## Configuracion de Switchs
 
